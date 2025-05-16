@@ -1,4 +1,4 @@
-# DAtASTRUCTURE
+# DATASTRUCTURE
 V.important Data structure concepts
 
 
